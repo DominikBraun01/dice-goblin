@@ -34,7 +34,7 @@
 	"styles": [
 		"dicestyle.css"
 	],
-	"url": "https://therollsmith.com/",
-	"manifest": "https://foundryvtt.s3-us-west-2.amazonaws.com/modules/trs-foundryvtt-dice-set/module.json",
-	"download": "https://foundryvtt.s3.us-west-2.amazonaws.com/modules/trs-foundryvtt-dice-set/trs-foundryvtt-dice-set-1.0.1.zip"
+	"url": "https://github.com/DominikBraun01/dice-goblin/",
+	"manifest": "https://github.com/DominikBraun01/dice-goblin/module.json",
+	"download": "https://github.com/DominikBraun01/dice-goblin/dice-goblin-1.0.zip/"
 }
