@@ -1,0 +1,53 @@
+/* DnD Regular */
+@font-face {
+	font-family: 'DnD';
+	font-style: normal;
+	font-weight: 400;
+	src: local('DnD'), local('DnD-Regular'),
+		url('../dice-goblin/fonts/dnd-Regular.woff2') format('woff2');
+}
+
+/* Jasmeen Regular */
+@font-face {
+	font-family: 'Jasmeen';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Jasmeen'), local('Jasmeen-Regular'),
+		url('../dice-goblin/fonts/jasmeen-Regular.woff2') format('woff2');
+}
+
+/* Nibs Regular */
+@font-face {
+	font-family: 'Nibs';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Nibs'), local('Nibs-Regular'),
+		url('../dice-goblin/fonts/nibs-Regular.woff2') format('woff2');
+}
+
+/* Rahen Regular */
+@font-face {
+	font-family: 'Rahen';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Rahen'), local('Rahen-Regular'),
+		url('../dice-goblin/fonts/rahen-Regular.woff2') format('woff2');
+}
+
+/* Varosch Regular */
+@font-face {
+	font-family: 'Varosch';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Varosch'), local('Varosch-Regular'),
+		url('../dice-goblin/fonts/varosch-Regular.woff2') format('woff2');
+}
+
+/* Yssar Regular */
+@font-face {
+	font-family: 'Yssar';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Yssar'), local('Yssar-Regular'),
+		url('../dice-goblin/fonts/yssar-Regular.woff2') format('woff2');
+}

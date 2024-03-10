@@ -1,0 +1,40 @@
+{
+	"id": "dice-goblin",
+	"name": "dice-goblin",
+	"title": "Dice Goblin",
+	"description": "More Dice = More Happiness",
+	"version": "1.0",
+	"minimumCoreVersion": "0.8.4",
+	"compatibleCoreVersion": "9",
+	"compatibility": {
+		"minimum": "0.8.4",
+		"verified": "11"
+	},
+	"author": "Riptide",
+	"authors": [
+		{
+			"name": "Riptide"
+		}
+	],
+	"relationships.requires": {
+		"type": "module",
+		"name": "dice-so-nice",
+		"id": "dice-so-nice"
+	},
+	"scripts": [
+		"scripts/dnd.js",
+		"scripts/jasmeen.js",
+		"scripts/nibs.js",
+		"scripts/rahen.js",
+		"scripts/varosch.js",
+		"scripts/varosch-d20.js",
+		"scripts/yssar.js",
+		"scripts/textures.js"
+	],
+	"styles": [
+		"dicestyle.css"
+	],
+	"url": "https://therollsmith.com/",
+	"manifest": "https://foundryvtt.s3-us-west-2.amazonaws.com/modules/trs-foundryvtt-dice-set/module.json",
+	"download": "https://foundryvtt.s3.us-west-2.amazonaws.com/modules/trs-foundryvtt-dice-set/trs-foundryvtt-dice-set-1.0.1.zip"
+}
