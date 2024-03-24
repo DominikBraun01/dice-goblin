@@ -34,6 +34,15 @@
 		url('../dice-goblin/fonts/rahen-Regular.woff2') format('woff2');
 }
 
+/* Tie Regular */
+@font-face {
+	font-family: 'Tie';
+	font-style: normal;
+	font-weight: 400;
+	src: local('Tie'), local('Tie-Regular'),
+		url('../dice-goblin/fonts/tie-Regular.woff2') format('woff2');
+}
+
 /* Varosch Regular */
 @font-face {
 	font-family: 'Varosch';
