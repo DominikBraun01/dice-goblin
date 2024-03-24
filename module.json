@@ -39,7 +39,7 @@
 	],
 	"languages": [],
 	"url": "https://github.com/DominikBraun01/dice-goblin/",
-	"manifest": "https://github.com/DominikBraun01/dice-goblin/releases/download/latest/module.json",
-	"download": "https://github.com/DominikBraun01/dice-goblin/releases/download/latest/dice-goblin.zip/",
+	"manifest": "https://github.com/DominikBraun01/dice-goblin/releases/latest/download/module.json",
+	"download": "https://github.com/DominikBraun01/dice-goblin/releases/latest/download/dice-goblin.zip/",
 	"readme": "https://github.com/DominikBraun01/dice-goblin/README.md"
 }
